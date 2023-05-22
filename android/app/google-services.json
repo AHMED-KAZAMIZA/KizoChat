@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "763246745035",
+    "project_id": "kizochat-dd9e2",
+    "storage_bucket": "kizochat-dd9e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763246745035:android:2976504cf7c93f4530124e",
+        "android_client_info": {
+          "package_name": "com.example.kizochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763246745035-ot4ie199cqme5a8f5j3ikg3bktlp0rpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCaiZtyIiJhH64Bi8ZEBrm7bGm4hJeNX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763246745035-ot4ie199cqme5a8f5j3ikg3bktlp0rpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
